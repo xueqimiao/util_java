@@ -5,7 +5,6 @@ import java.util.Date;
 
 
 
-
 public class ResultData implements Serializable
 {
 	private static final long serialVersionUID = 5105652949759178422L;
